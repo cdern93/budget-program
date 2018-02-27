@@ -1,5 +1,6 @@
 # budget-program
 A simple budget program I created just for practice.
+
 PLANNED EDITS:
   1. Create a GUI to add visual appeal.
   2. Add file or database functionality so budgets are saved.
